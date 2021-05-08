@@ -103,7 +103,7 @@ C=======================================================================
       READ(IR,*) NMAX
       ICR=14
       LIBUF=128
-      ICON=I3B
+      ICON=O'3' !3B IN HP FORTRAN IV
       NAME(1)=2HVI
       NAME(2)=2HBR
       NAME(3)=2H3 
@@ -158,7 +158,7 @@ C  PAGE 79
       ICR=14
       LBUF=640
       LIBUF=128
-      ICON=I3B
+      ICON=O'3' !3B IN HP FORTRAN IV
       INS=MATL-1
       IRS=5*INS
       NAME(1)=2HVI
@@ -553,7 +553,7 @@ C  PAGE 86
       ICR=15
       LBUF=640
       LIBUF=128
-      ICON=I3B
+      ICON=O'3' !3B IN HP FORTRAN IV
       INS=IBUF(121)-1
       IRS=5*INS
       NAME(1)=2HVI

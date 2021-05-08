@@ -5,10 +5,10 @@ C ==================================================
 C
 C REFERENCE
 C
-C King, Karl S. Jr. Computerized processing and graphic representation
-C of viscoelastic material property data. AFML-TR-79-4099. Air Force
-C Materials Laboratory, Air Force Wright Aeronautical Laboratories,
-C August 1979.
+C King, Karl S. Jr. Computerized processing and graphic 
+C representation of viscoelastic material property data.
+C AFML-TR-79-4099. Air Force Materials Laboratory, Air 
+C Force Wright Aeronautical Laboratories, August 1979.
 
       PROGRAM VIBR2
 

@@ -12,7 +12,7 @@ C code commented out, in order to allow the porgram to be compiled
 C successfully.
 C
 C Hence, this code is kept for archival purposes only. It can be used,
-C if desired, to form the the basis of a plotting-free version of the
+C if desired, to form the basis of a plotting-free version of the
 C code.
 C
 C REFERENCE

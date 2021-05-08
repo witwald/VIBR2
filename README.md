@@ -1,5 +1,5 @@
 # VIBR2
-Computerized processing of viscoelastic material property data
+COMPUTERIZED PROCESSING OF VISCOELASTIC MATERIAL PROPERTY DATA
 
 REFERENCE
 

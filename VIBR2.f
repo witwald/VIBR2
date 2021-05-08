@@ -1,7 +1,19 @@
-C ==================================================
-C COMPUTERIZED PROCESSING AND GRAPHIC REPRESENTATION
-C       OF VISCOELASTIC MATERIAL PROPERTY DATA
-C ==================================================
+C ======================================================================
+C       COMPUTERIZED PROCESSING AND GRAPHIC REPRESENTATION
+C             OF VISCOELASTIC MATERIAL PROPERTY DATA
+C ======================================================================
+C
+C This code was originally written in Fortran IV for the HP-2100
+C minicomputer. The plotting routines made use of a Tektronix
+C graphics screen terminal, access through a plotting package.
+C As the Tektronix terminal is unavailable, the relevant
+C subroutines have been replaced by suitable stubs, and some of the
+C code commented out, in order to allow the porgram to be compiled
+C successfully.
+C
+C Hence, this code is kept for archival purposes only. It can be used,
+C if desired, to form the the basis of a plotting-free version of the
+C code.
 C
 C REFERENCE
 C
